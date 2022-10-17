@@ -45,7 +45,7 @@ public class Professor {
         for ( int i: grades){
             if(i % 5 == 0 && i > 38){
                 abgerundete.add(i);
-            }else if ()
+            }else if (z)
 
         }
 
